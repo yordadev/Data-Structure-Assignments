@@ -98,8 +98,6 @@ public class Assignment06 {
                             System.out.println("\n    Store is now closed!\n");
                             calc.forMePlease(storeLog);
                             break;
-                            
-                            
                         }
                     }
 
