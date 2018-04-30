@@ -4,3 +4,5 @@
 *.xml
 *.zip
 *.properties
+/Assignment07/nbproject/private/
+/Assignment07/build/
