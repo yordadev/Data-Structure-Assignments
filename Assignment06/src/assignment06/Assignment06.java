@@ -1,6 +1,6 @@
 /*
  MIT License
-Copyright (c) 2017 Devitgg
+Copyright (c) 2017 yordaDev - https://github.com/yordadev
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -18,6 +18,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
+
 package assignment06;
 
 import java.io.File;
@@ -27,7 +28,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Devitgg
+ * @author yordaDev
  *
  * PURPOSE: Software to log transactions for cashiers, automatically generates a
  * random number of customers entering the restaurant and generates a random

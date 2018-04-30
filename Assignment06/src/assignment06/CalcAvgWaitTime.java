@@ -1,6 +1,6 @@
 /*
  MIT License
-Copyright (c) 2017 Devitgg
+Copyright (c) 2017 yordaDev - https://github.com/yordadev
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -26,7 +26,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Devitgg
+ * @author yordaDev
  * PURPOSE: 
  *      Loop through the store log, calculate the average wait time and 
  *      service time for each transaction.
